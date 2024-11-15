@@ -1,0 +1,30 @@
+.foo {} /* W3C CSS validator likes CSS files to start with a class rather than a comment. Soooooo.... */
+
+/* This style sheet is intended to contain RARELY CHANGED rules used when the CreateUserWizard control adapter is enabled. */
+/* Empty rules are provided merely as a convenience for your future use or experimentation. */
+
+.AspNet-CreateUserWizard
+{
+}
+
+﻿
+/*
+     FILE ARCHIVED ON ﻿12:02:46 Feb 23, 2007﻿ AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON ﻿15:11:00 Nov 15, 2024﻿.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+﻿playback timings (ms):
+﻿  ﻿captures_list﻿: ﻿0.443﻿
+﻿  ﻿exclusion.robots﻿: ﻿0.018﻿
+﻿  ﻿exclusion.robots.policy﻿: ﻿0.007﻿
+﻿  ﻿esindex﻿: ﻿0.009﻿
+﻿  ﻿cdx.remote﻿: ﻿20.469﻿
+﻿  ﻿LoadShardBlock﻿: ﻿435.017﻿ (﻿3﻿)
+﻿  ﻿PetaboxLoader3.datanode﻿: ﻿168.737﻿ (﻿4﻿)
+﻿  ﻿PetaboxLoader3.resolve﻿: ﻿136.893﻿ (﻿2﻿)
+﻿  ﻿load_resource﻿: ﻿132.795﻿
+﻿*/
